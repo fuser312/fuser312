@@ -6,7 +6,7 @@ Here are some of the projects I have worked on :
 
 #### Upcover App
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+(https://www.youtube.com/watch?v=xoqKxxkC2F4)
 
 <!--
 **fuser312/fuser312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
