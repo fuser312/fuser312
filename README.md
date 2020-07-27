@@ -10,7 +10,7 @@ Here are some of the projects I have worked on :
 
 #### TIC TAC TOE App
 
-![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png | height = 80)
+[![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png | height = 80)]
 
 
 
