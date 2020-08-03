@@ -13,9 +13,17 @@ Here are some of the projects I have worked on :
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
 
 
-### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
+### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 Classical 2 player game with nice graphics and animations.
 
+**⚡️ Built with: Flutter and Dart**
+- Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
+game in terminal
+- Learnt about animations in Flutter and created custom animation curve.
+
+**Screenshots**
+
+![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450")
 
 
 
