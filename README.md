@@ -10,7 +10,9 @@ Here are some of the projects I have worked on :
 
 #### TIC TAC TOE App
 
-![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png)
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
+
+
 
 
 
