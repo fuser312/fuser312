@@ -9,10 +9,6 @@ Here are some of the projects I have worked on :
 [![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/Capture111.PNG)](http://www.youtube.com/watch?v=xoqKxxkC2F4)
 
 
-
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
-
-
 ### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 Classical 2 player game with nice graphics and animations.
 
@@ -24,6 +20,21 @@ game in terminal
 **Screenshots**
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
+
+
+
+## Education
+###  McLaren College
+- **Program: Full Stack Online Course**
+- **Period: Oct 2019 - Jun 2020 (9 Months)**
+
+The first three months of this course was a full-time online class focused on mobile app development. The remaining six months involved part-time study of full-stack web development and part-time paid work experience on Upcover Insurance app/McLaren Times (see above).
+
+I successfully passed 2 out of 3 course modules:
+- Flutter App Developed
+- Full Stack Web Development
+
+[More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
 
 
 <!--
