@@ -8,10 +8,13 @@ Here are some of the projects I have worked on :
 
 [![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/Capture111.PNG)](http://www.youtube.com/watch?v=xoqKxxkC2F4)
 
-#### TIC TAC TOE App
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
 
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
+
+
+### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
+Classical 2 player game with nice graphics and animations.
 
 
 
