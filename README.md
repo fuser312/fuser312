@@ -23,8 +23,7 @@ game in terminal
 
 **Screenshots**
 
-![](https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450")
-
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
 
 
 <!--
