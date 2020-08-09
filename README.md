@@ -50,6 +50,16 @@ A newyork times clone.
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/newsApp.png" height="450" />
 
+### City Map App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+A newyork times clone.
+**⚡️ Built with: Flutter and Dart**
+
+
+**Screenshots**
+
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/cityMap.png" height="450" />
+
+
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
