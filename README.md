@@ -59,6 +59,17 @@ A newyork times clone.
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/cityMap.png" height="450" />
 
+#### Web Apps
+
+### News App -  [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+A newyork times clone.
+**⚡️ Built with: React JS**
+
+
+**Screenshots**
+
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture2.PNG" height="450" />
+
 
 ## Education
 ###  McLaren College
