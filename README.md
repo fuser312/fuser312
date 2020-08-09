@@ -31,7 +31,24 @@ A BMI calculator app with pixel perfect design layout from a dribble design.
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi.png" height="450" />
 
+### BMI Calculator - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+A BMI calculator app with pixel perfect design layout from a dribble design.
 
+**⚡️ Built with: Flutter and Dart**
+
+
+**Screenshots**
+
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi.png" height="450" />
+
+### News App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+A newyork times clone.
+**⚡️ Built with: Flutter and Dart**
+
+
+**Screenshots**
+
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/newsApp.png" height="450" />
 
 ## Education
 ###  McLaren College
