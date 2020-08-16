@@ -96,6 +96,13 @@ I successfully passed 2 out of 3 course modules:
 [More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
 
 
+### B.Tech in Computer Science - AAIDU
+- **Period Aug 2010 - Jun 2014 (Full-time)
+# Location: Allahabad, India
+
+
+
+
 <!--
 **fuser312/fuser312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
