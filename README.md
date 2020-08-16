@@ -1,5 +1,6 @@
 ### Hi, My name is Sahil Singh 👋
 
+I am a highly competent IT professional with a proven track record in developing apps and designing websites, networking and managing databases. I have strong technical skills in variety of technologies like Flutter, Dart, Firebase, React JS, MongoDB, Javascript as well as excellent interpersonal skills, enabling me to interact with a wide range of clients. I am eager to be challenged in order to grow and further improve my skills. My greatest passion is in life is using my technical know-how to benefit other people and organisations. 
 Here are some of the projects I have worked on :
 
 #### Mobile Apps
