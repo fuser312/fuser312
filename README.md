@@ -97,8 +97,8 @@ I successfully passed 2 out of 3 course modules:
 
 
 ### B.Tech in Computer Science - AAIDU
-- **Period Aug 2010 - Jun 2014 (Full-time)
-# Location: Allahabad, India
+**Period Aug 2010 - Jun 2014 (Full-time)
+### Location: Allahabad, India
 
 
 
