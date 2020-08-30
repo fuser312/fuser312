@@ -69,7 +69,7 @@ A newyork times clone.
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture2.PNG" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture2.PNG" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/movies2.png" height="450" />
 
 ### Quiz App -  [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 A newyork times clone.
