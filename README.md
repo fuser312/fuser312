@@ -78,7 +78,8 @@ A newyork times clone.
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture4.PNG" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture4.PNG" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/quiz2.png" height="450" />
+
 
 
 
