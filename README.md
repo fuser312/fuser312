@@ -20,7 +20,7 @@ game in terminal
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictac2.png" height="450" />
 
 ### BMI Calculator - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 A BMI calculator app with pixel perfect design layout from a dribble design.
@@ -30,7 +30,7 @@ A BMI calculator app with pixel perfect design layout from a dribble design.
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictac2.png" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi.png" height="450" /> 
 
 ### Quotes App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 A BMI calculator app with pixel perfect design layout from a dribble design.
