@@ -50,7 +50,8 @@ A newyork times clone.
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/newsApp.png" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/newsApp.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/news2.png" height="450" />
+
 
 ### City Map App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
 A newyork times clone.
