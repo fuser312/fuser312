@@ -60,7 +60,7 @@ A newyork times clone.
 
 **Screenshots**
 
-<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/cityMap.png" height="450" />
+<img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/cityMap.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/cityMap2.png" height="450" />
 
 #### Web Apps
 
