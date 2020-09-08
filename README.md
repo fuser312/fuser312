@@ -64,7 +64,7 @@ A newyork times clone.
 
 #### Web Apps
 
-### Movies Database App -  [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### Movies Database App -  [GitHub Repo](https://github.com/fuser312/movies3)
 A newyork times clone.
 **⚡️ Built with: React JS**
 
@@ -73,7 +73,7 @@ A newyork times clone.
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/capture2.PNG" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/movies2.png" height="450" />
 
-### Quiz App -  [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### Quiz App -  [GitHub Repo](https://github.com/fuser312/quiz_webapp_starter)
 A newyork times clone.
 **⚡️ Built with: React JS**
 
