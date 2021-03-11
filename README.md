@@ -22,7 +22,7 @@ game in terminal
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictactoe.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/tictac2.png" height="450" />
 
-### BMI Calculator - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### BMI Calculator - [Google Play]() | [GitHub Repo](https://github.com/fuser312/fuser_bmi)
 A BMI calculator app with pixel perfect design layout from a dribble design.
 
 **⚡️ Built with: Flutter and Dart**
@@ -32,7 +32,7 @@ A BMI calculator app with pixel perfect design layout from a dribble design.
 
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/bmi2.png" height="450" /> 
 
-### Quotes App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### Quotes App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/quotes_app_starter)
 A BMI calculator app with pixel perfect design layout from a dribble design.
 
 **⚡️ Built with: Flutter and Dart**
@@ -43,7 +43,7 @@ A BMI calculator app with pixel perfect design layout from a dribble design.
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/quotes.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/quoteWait.png" height="450" />
 
 
-### News App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### News App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/newyork_times_clone_starter)
 A newyork times clone.
 **⚡️ Built with: Flutter and Dart**
 
@@ -53,7 +53,7 @@ A newyork times clone.
 <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/newsApp.png" height="450" /> <img src="https://github.com/fuser312/tic_tac_toe_refactoring_starter/blob/master/screenshot/news2.png" height="450" />
 
 
-### City Map App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
+### City Map App - [Google Play]() | [GitHub Repo](https://github.com/fuser312/city_map)
 A newyork times clone.
 **⚡️ Built with: Flutter and Dart**
 
